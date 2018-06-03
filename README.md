@@ -7,3 +7,5 @@ Final project for Udemy course
 4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
+
+Sincerly greets and a big thank you goes to [Andrei](https://www.udemy.com/the-complete-web-developer-in-2018/)
